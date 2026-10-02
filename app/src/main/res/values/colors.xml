@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Paleta sobria basada en azul marino -->
+    <color name="color_primario">#1F3A5F</color>
+    <color name="color_primario_oscuro">#162A45</color>
+    <color name="color_acento">#2E5C8A</color>
+    <color name="color_fondo">#F2F4F7</color>
+    <color name="color_tarjeta">#FFFFFF</color>
+    <color name="color_texto_principal">#1E1E1E</color>
+    <color name="color_texto_secundario">#5F6B7A</color>
+</resources>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">practica1.kotlin</string>
+
+    <string name="titulo_listado_alumnos">Listado de alumnos</string>
+    <string name="boton_agregar_alumno">Agregar alumno</string>
+
+    <string name="titulo_agregar_alumno">Agregar alumno</string>
+    <string name="boton_seleccionar_imagen">Seleccionar imagen</string>
+    <string name="boton_guardar">Guardar</string>
+
+    <string name="etiqueta_nombre">Nombre</string>
+    <string name="etiqueta_cuenta">Número de cuenta</string>
+    <string name="etiqueta_correo">Correo</string>
+
+    <string name="descripcion_imagen_alumno">Imagen del alumno</string>
+
+    <string name="mensaje_campos_vacios">Por favor llena todos los campos</string>
+    <string name="mensaje_alumno_guardado">Alumno guardado correctamente</string>
+</resources>
